@@ -9,4 +9,4 @@ client.
  
  The client will have an interface in which it will receive the orders given by the user, and if necessary pass the information needed to the server. After the server or the client performs what was asked it returns information to the user via standard output.
 
- For all this to be possible, it is used system calls thoughout the whole project. 
+ For all this to be possible, it is used system calls thoughout the whole project. For more information about what it does, you can go to "Enunciado".
